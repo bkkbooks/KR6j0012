@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0012/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 胎藏梵字真言
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0854.xml
+    old_id: T18n0854
+hash: sha256:684c68e9ff3c441f94088a2ef5ff9ebf781212c642374055553df272f4cfe1af
